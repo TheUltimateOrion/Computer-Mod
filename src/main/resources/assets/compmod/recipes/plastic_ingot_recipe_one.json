@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [{
+        "item": "compmod:plastic_block"
+    }],
+ 
+    "result":
+    {
+        "item": "compmod:plastic_ingot",
+        "count": 9
+    }
+}

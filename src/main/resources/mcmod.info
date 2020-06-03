@@ -1,0 +1,16 @@
+[
+{
+  "modid": "compmod",
+  "name": "Computer Mod",
+  "description": "Adds CPUs and Computer Components to create computers.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheUltimateOrion"],
+  "credits": "Mr Crayfish's Device mod for Inspiration",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

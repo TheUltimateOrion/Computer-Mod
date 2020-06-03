@@ -1,0 +1,22 @@
+//Items
+item.ram.name=Ram
+item.plastic_ingot.name=Plastic Ingot
+
+//Tools
+item.plastic_sword.name=Plastic Sword
+item.plastic_hoe.name=Plastic Hoe
+item.plastic_pickaxe.name=Plastic Pickaxe
+item.plastic_axe.name=Plastic Axe
+item.plastic_shovel.name=Plastic Shovel
+
+//Armor
+item.plastic_helmet.name=Plastic Helmet
+item.plastic_chestplate.name=Plastic Chestplate
+item.plastic_leggings.name=Plastic Leggings
+item.plastic_boots.name=Plastic Boots
+
+//Blocks
+tile.plastic_block.name=Plastic Block 
+
+//Other
+itemGroup.cptab=Computer Mod

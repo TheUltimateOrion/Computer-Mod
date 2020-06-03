@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "compmod:plastic_block" }
+    }
+}
